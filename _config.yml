@@ -5,9 +5,9 @@ url: https://xiaowei.github.io
 # Keep this hostname separate from url so forks do not inherit live tracking.
 # When reusing this site, change BOTH values to your own GoatCounter site/domain.
 # 建议先注释掉，等你注册了自己的 GoatCounter（一个免费网站访问量统计工具）再填入
-# goatcounter:
-#   endpoint: https://YOUR-ACCOUNT.goatcounter.com/count
-#   hostname: xiaowei.github.io
+goatcounter:
+  endpoint: https://visit-xiaowei.goatcounter.com/count
+  hostname: xiaowei.github.io
 
 # Default social-share preview image (Open Graph / Twitter card). Lives in /images/.
 og_image: og-cover.png
