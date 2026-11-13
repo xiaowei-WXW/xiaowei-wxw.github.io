@@ -1,28 +1,31 @@
-title: Siming Deng
+title: Xiaowei Wu
 # Comment out url when working locally to resolve base urls correctly
-url: https://larrysimingdeng.github.io
+url: https://xiaowei.github.io
 
 # Keep this hostname separate from url so forks do not inherit live tracking.
 # When reusing this site, change BOTH values to your own GoatCounter site/domain.
-goatcounter:
-  endpoint: https://larrysimingdeng-clean.goatcounter.com/count
-  hostname: larrysimingdeng.github.io
+# 建议先注释掉，等你注册了自己的 GoatCounter（一个免费网站访问量统计工具）再填入
+# goatcounter:
+#   endpoint: https://YOUR-ACCOUNT.goatcounter.com/count
+#   hostname: xiaowei.github.io
 
 # Default social-share preview image (Open Graph / Twitter card). Lives in /images/.
-og_image: og-cover.jpg
+og_image: og-cover.png
 
 # Owner/author information
 owner:
-  name: Siming Deng
+  name: Xiaowei Wu
   avatar: avatar.jpg
-  email: siming_deng_stat@163.com
-  github: LarrySimingDeng
-  linkedin: larry-deng-317b92360
-  scholar: https://scholar.google.com/citations?hl=en&user=aKyLtgsAAAAJ
-  researchgate: https://www.researchgate.net/profile/Siming-Deng-3
+  email: xiaowei.wu@kuleuven.be
+  github: xiaowei
+  # 如果你有 LinkedIn，请替换下方的用户名，如果没有可以直接整行删掉
+  linkedin: https://www.linkedin.com/in/xiaowei-wu-49523a229/
+  scholar: https://scholar.google.com/citations?user=_qbzHZQAAAAJ
+  researchgate: https://www.researchgate.net/profile/Xiaowei-Wu-20
 
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# 谷歌收录验证码，这里我先为你留空，等你以后配置 Google Search Console 时再填入
+google_verify: ""
 
 # Links to include in top navigation
 links:
@@ -34,7 +37,7 @@ links:
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 

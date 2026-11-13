@@ -8,25 +8,25 @@ title: Beyond Research
 
 <div class="hobby-section" markdown="1">
 
-## Personal Photos
+## Through My Lens: Travel & Photography
 
 <div class="third">
   <div class="image-container">
-    <a href="/images/hobbies/dsm2.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm2.jpg" alt="Siming's personal photo">
+    <a href="/images/hobbies/Travel_1.jpg" class="image-popup">
+      <img src="/images/hobbies/Travel_1.jpg" alt="Xiaowei's travel photo">
     </a>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm3.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm3.jpg" alt="Siming at the Forbidden City in Beijing">
+    <a href="/images/hobbies/Travel_2.jpg" class="image-popup">
+      <img src="/images/hobbies/Travel_2.jpg" alt="Xiaowei capturing the landscape">
     </a>
     <div class="image-caption">
-      <div class="caption-title">Forbidden City, Beijing</div>
+      <div class="caption-title">Capturing the world</div>
     </div>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm4.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm4.jpg" alt="Siming's personal photo">
+    <a href="/images/hobbies/Travel_3.jpg" class="image-popup">
+      <img src="/images/hobbies/Travel_3.jpg" alt="Xiaowei exploring a new city">
     </a>
   </div>
 </div>
@@ -35,27 +35,27 @@ title: Beyond Research
 
 <div class="hobby-section cooking-section" markdown="1">
 
-## Possibly the World's Best Amateur Chef
+## The Great Outdoors: Climbing & Hiking
 
 <div class="cooking-text-card">
-Every meal is an opportunity to create, taste, and share.
+Every trail hiked and every wall climbed is a new perspective gained.
 </div>
 
 <div class="cooking-gallery">
   <div class="cooking-featured">
-    <a href="/images/hobbies/Dish1.jpg" class="image-popup">
-      <img src="/images/hobbies/Dish1.jpg" alt="Siming's signature dish">
+    <a href="/images/hobbies/climbing.png" class="image-popup">
+      <img src="/images/hobbies/climbing.png" alt="Xiaowei rock climbing">
     </a>
   </div>
   <div class="cooking-grid">
     <div class="cooking-item">
-      <a href="/images/hobbies/Dish2.jpg" class="image-popup">
-        <img src="/images/hobbies/Dish2.jpg" alt="Homemade meal by Siming">
+      <a href="/images/hobbies/hiking1.jpg" class="image-popup">
+        <img src="/images/hobbies/hiking1.jpg" alt="Hiking in the mountains">
       </a>
     </div>
     <div class="cooking-item">
-      <a href="/images/hobbies/Dish3.jpg" class="image-popup">
-        <img src="/images/hobbies/Dish3.jpg" alt="Culinary creation by Siming">
+      <a href="/images/hobbies/fitness.jpeg" class="image-popup">
+        <img src="/images/hobbies/fitness.jpeg" alt="Fitness and training">
       </a>
     </div>
   </div>
@@ -65,28 +65,26 @@ Every meal is an opportunity to create, taste, and share.
 
 <div class="hobby-section" markdown="1">
 
-## Passion for the Blues: My Guitar Journey
+## Balancing Mind & Body: Chess, Art, and Fitness
 
-Beyond academia and AI innovation, you'll find me lost in the soulful rhythms of the blues. For me, the guitar isn't just an instrument — it's a bridge between logic and emotion, a medium to channel life's raw, unfiltered energy. I've spent countless evenings with fingers dancing across the fretboard, honing the perfect bend or riff until my mom practically dragged me out for dinner. To me, blues is more than music; it's a storytelling language where every note carries joy, struggle, and resilience.
+Beyond academia, I believe in cultivating both a resilient body and a sharp mind. You will often find me pushing my physical limits through **fitness training** or out on a **hiking** trail, breathing in the fresh air and resetting my focus. 
 
-My musical heroes are legends who pioneered the genre: <span class="artist-name">B.B. King</span>'s soulful improvisation, <span class="artist-name">Eric Clapton</span>'s blues-rock mastery, and <span class="artist-name">John Mayer</span>'s modern reinvention. Their influence resonates in my playing—whether I'm jamming the blues' foundational 12-bar shuffle or experimenting with ambient textures.
+When I'm indoors, my energy shifts to quieter, more introspective pursuits. I have a deep appreciation for **Chinese Chess (Xiangqi)**—a brilliant game of strategy, foresight, and patience that often mirrors the problem-solving processes in my research. Alongside chess, **drawing and painting** offer me a creative outlet, allowing me to express ideas visually and find tranquility through art. It's this balance between physical exertion and mental stillness that keeps me grounded.
 
 <div class="hobby-quote">
-"Life isn't just about hitting the right notes in code; it's about finding harmony between mind and soul."
+"Research sharpens the intellect, but the combination of nature, strategy, and art nourishes the soul."
 </div>
 
 </div>
 
 <div class="hobby-section guitar-showcase" markdown="1">
 
-<p class="guitar-tagline">My guitar, my life. My guitar, my wife :)</p>
+<p class="guitar-tagline">Logic on the board, creativity on the canvas.</p>
 
-<div class="guitar-image-container">
-  <a href="/images/hobbies/guitar.jpg" class="image-popup">
-    <img src="/images/hobbies/guitar.jpg" alt="Martin OM28 acoustic guitar and Fender American Professional II">
-  </a>
+<!-- <div class="guitar-image-container">
+  <a href="/images/hobbies/chess_art.jpg" class="image-popup">
+    <img src="/images/hobbies/chess_art.jpg" alt="Xiaowei's artwork or chess board setup">
+  </a> -->
 </div>
 
-</div>
 
-</div><!-- End hobbies-pinterest-container -->
